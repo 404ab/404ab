@@ -2,7 +2,7 @@
 # 404AB 👋
 TRUST NO ONE, VERIFY EVERYTHING
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=404AB&style=for-the-badge) ![Open To Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
+![Visitor Badge](https://komarev.com/ghpvc/?username=404AB&style=for-the-badge) ![Open To Work](https://img.shields.io/badge/Open%20to-Opportunities-hotpink?style=for-the-badge)
 
 ## 🙋 About Me
 - Web-Developer
